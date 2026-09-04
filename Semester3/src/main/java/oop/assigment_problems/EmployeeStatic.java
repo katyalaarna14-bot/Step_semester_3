@@ -1,3 +1,4 @@
+package oop.assigment_problems;
 public class EmployeeStatic {
 
     String empName;
