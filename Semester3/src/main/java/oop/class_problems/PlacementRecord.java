@@ -1,3 +1,4 @@
+package oop.class_problems;
 public class PlacementRecord {
 
     String studentName;
