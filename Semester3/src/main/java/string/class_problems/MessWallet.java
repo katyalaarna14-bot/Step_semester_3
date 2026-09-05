@@ -1,4 +1,4 @@
-package oop.class_problems;
+package string.class_problems;
 public class MessWallet {
 
     String studentName;
