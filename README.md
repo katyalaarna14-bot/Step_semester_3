@@ -1,8 +1,7 @@
 # Step_semester_3
+
 # Session 5 — 12-09-2026
-
 ## Today's Work:
-
 - Completed 5 Class Problems.
 - Completed 5 Assignment Problems.
 - Practiced access modifiers: `private`, `default`, `protected`, and `public`.
@@ -16,7 +15,6 @@
 - Practiced arrays, loops and if-else conditions.
 
 ## Next Session Plan:
-
 - Learn types of inheritance.
 - Practice `extends`, `super` and constructor chaining.
 - Practice method overriding and `@Override`.
@@ -24,12 +22,13 @@
 - Practice runtime polymorphism, upcasting and downcasting.
 
 ## Issues Faced:
-
 - Minor access modifier errors.
 - Minor constructor-related errors.
 - Small logical errors while handling arrays and OOP concepts.
+- 
+- ---
+- 
 ## Session 4 — 03-09-2026
-
 **Today's Work:**
 - Completed 5 Class Problems.
 - Completed 5 Assignment Problems.
@@ -52,7 +51,6 @@
 ---
 
 ## Session 3 — 02-09-2026
-
 **Today's Work:**
 - Completed 5 Class Problems.
 - Completed 5 Assignment Problems.
@@ -74,7 +72,6 @@
 ---
 
 ## Session 2 — 31-08-2026
-
 **Today's Work:**
 - Completed Class Problems.
 - Completed Assignment Problems.
@@ -96,7 +93,6 @@
 ---
 
 ## Session 1 — 29-08-2026
-
 **Today's Work:**
 - Completed 5 Class Problems.
 - Completed 5 Assignment Problems.
