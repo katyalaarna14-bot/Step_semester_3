@@ -1,27 +1,26 @@
 # Step_semester_3
 
-# Session 5 — 12-09-2026
-## Today's Work:
+## Session 5 — 12-09-2026
+### Today's Work:
 - Completed 5 Class Problems.
 - Completed 5 Assignment Problems.
 - Practiced access modifiers: `private`, `default`, `protected`, and `public`.
-- Practiced `this()` constructor chaining.
+- Practiced constructor chaining using `this()`.
 - Practiced JavaBean getter and setter conventions.
 - Practiced encapsulation and data hiding.
 - Practiced write-once and write-only properties.
 - Practiced immutable classes and defensive copying.
-- Practiced `static` blocks.
-- Practiced `instanceof` and polymorphism.
-- Practiced arrays, loops and if-else conditions.
+- Practiced static blocks and `instanceof`.
+- Practiced arrays, loops and conditional statements.
 
-## Next Session Plan:
+### Next Session Plan:
 - Learn types of inheritance.
 - Practice `extends`, `super` and constructor chaining.
 - Practice method overriding and `@Override`.
 - Understand polymorphism and method overloading.
-- Practice runtime polymorphism, upcasting and downcasting.
+- Practice upcasting and downcasting.
 
-## Issues Faced:
+### Issues Faced:
 - Minor access modifier errors.
 - Minor constructor-related errors.
 - Small logical errors while handling arrays and OOP concepts.
