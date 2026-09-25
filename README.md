@@ -1,5 +1,36 @@
 # Step_semester_3
 
+## Session 6 — 25-09-2026
+### Today's Work:
+- Completed 5 Class Problems.
+- Completed 4 Assignment Problems.
+- Practiced inheritance using `extends`.
+- Practiced multilevel and hierarchical inheritance.
+- Practiced constructor chaining using `super()`.
+- Practiced method overriding and `@Override`.
+- Practiced runtime polymorphism.
+- Practiced upcasting and downcasting.
+- Practiced `instanceof` for type checking.
+- Practiced static members and final fields.
+- Practiced defensive copying and data hiding.
+- Practiced `StringBuilder` for generating reports.
+
+### Next Session Plan:
+- Learn abstraction using abstract classes.
+- Practice interfaces and interface implementation.
+- Understand the difference between abstract classes and interfaces.
+- Practice method overloading and compile-time polymorphism.
+- Practice combining inheritance, abstraction and interfaces.
+- Practice `super` with overridden methods.
+
+### Issues Faced:
+- Minor errors while handling multilevel inheritance.
+- Minor constructor chaining errors using `super()`.
+- Small errors while using `instanceof` and downcasting.
+- Minor logical errors while handling arrays and polymorphic objects.
+
+
+
 ## Session 5 — 12-09-2026
 ### Today's Work:
 - Completed 5 Class Problems.
