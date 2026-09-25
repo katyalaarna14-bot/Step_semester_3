@@ -1,9 +1,37 @@
 # Step_semester_3
 
-## Session 6 — 25-09-2026
+## Session 7 — 25-09-2026
 ### Today's Work:
-- Completed 5 Class Problems.
-- Completed 4 Assignment Problems.
+- Practiced abstraction using abstract classes.
+- Practiced interfaces and interface implementation.
+- Practiced method overriding and `@Override`.
+- Practiced method overloading and compile-time polymorphism.
+- Practiced runtime polymorphism using abstract classes and interfaces.
+- Practiced multilevel and hierarchical inheritance.
+- Practiced `super()` and constructor chaining.
+- Practiced `instanceof` and safe downcasting.
+- Practiced static counters and final fields.
+- Practiced JavaBean getter and setter conventions.
+- Practiced `StringBuilder` for processing multiple objects.
+
+### Next Session Plan:
+- Practice advanced combinations of inheritance, abstraction and interfaces.
+- Practice scenario-based Java OOP problems.
+- Improve implementation of polymorphism and type casting.
+- Practice writing clean and reusable Java classes.
+- Revise previous sessions and strengthen OOP concepts.
+
+### Issues Faced:
+- Minor errors while implementing abstract classes and interfaces.
+- Small method overriding and `super()` related errors.
+- Minor errors while handling overloaded methods.
+- Small logical errors while using `instanceof` and downcasting.
+- Minor compilation errors while working with multiple classes in the same package.
+
+
+
+## Session 6 — 24-09-2026
+### Today's Work:
 - Practiced inheritance using `extends`.
 - Practiced multilevel and hierarchical inheritance.
 - Practiced constructor chaining using `super()`.
