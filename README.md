@@ -37,7 +37,7 @@
 - Small logical errors in searching, queues, and sliding windows.
 
 
-## Session 8 — 01-10-2026
+## Session 8 — 10-10-2026
 ### Today's Work:
 - Completed 5 Class Problems and 5 Assignment Problems.
 - Practiced scenario-based Java programming.
