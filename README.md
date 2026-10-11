@@ -1,5 +1,58 @@
 # Step_semester_3
 
+
+## Session 10 — 11-10-2026
+### Today's Work:
+- Completed 5 Class Problems and 5 Assignment Problems.
+- Practiced inheritance, interfaces, abstraction, and polymorphism.
+- Practiced `HashSet`, `equals()`, and `hashCode()`.
+- Practiced two-dimensional arrays and payroll calculations.
+- Practiced singly, doubly, and circular linked lists.
+- Implemented insertion, deletion, reversal, and traversal operations.
+
+### Next Session Plan:
+- Practice advanced data structures and algorithms.
+- Improve time and space complexity analysis.
+- Solve more scenario-based Java problems.
+
+### Issues Faced:
+- Minor errors in inheritance and polymorphism.
+- Small logical errors in array and linked list operations.
+- Minor issues with pointer handling and boundary conditions.
+
+
+## Session 9 — 11-10-2026
+### Today's Work:
+- Completed 5 Class Problems and 5 Assignment Problems.
+- Practiced arrays, two-pointer techniques, and pair-sum problems.
+- Practiced grid analysis, searching, and data processing.
+- Practiced sliding windows, queues, and merging operations.
+
+### Next Session Plan:
+- Practice linked lists and Java collections.
+- Improve algorithm efficiency and edge-case handling.
+
+### Issues Faced:
+- Minor errors in array indices and boundary conditions.
+- Small logical errors in searching, queues, and sliding windows.
+
+
+## Session 8 — 01-10-2026
+### Today's Work:
+- Completed 5 Class Problems and 5 Assignment Problems.
+- Practiced scenario-based Java programming.
+- Implemented booking, employee management, and submission workflows.
+- Practiced classes, objects, methods, and queue operations.
+
+### Next Session Plan:
+- Practice arrays, strings, and Java collections.
+- Improve code organization and problem-solving skills.
+
+### Issues Faced:
+- Minor logical errors in workflow implementation.
+- Small errors in input validation and record handling.
+
+
 ## Session 7 — 25-09-2026
 ### Today's Work:
 - Practiced abstraction using abstract classes.
